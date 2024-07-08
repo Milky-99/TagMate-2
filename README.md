@@ -33,6 +33,8 @@ TagMate 2 is a Python application for organizing and categorizing AI model files
 
 ## Usage
 
+This app requires that you have used civitai helper to download all the .civitai.info files associated with the models
+
 1. Select input and output directories
 2. Configure categorization options
 3. Manage tags using the provided buttons
