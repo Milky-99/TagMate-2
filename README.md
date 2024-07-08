@@ -45,11 +45,15 @@ This app requires that you have used civitai helper to download all the .civitai
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Support
+## Support Me
 
-If you find this project helpful, consider supporting the developer:
+If you find this application useful, consider supporting me:
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/milky99)
+
+I'm a refugee in the United States and in desperate need of money so every $ will help
+
+Your support means everything to me!
 
 ## License
 
